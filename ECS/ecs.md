@@ -154,4 +154,16 @@
 
 ### 5. SSh Remote Instance
 
+- Open terminal > Type `ssh root@[EIP/public IP instance]` > Type password
+
+![alt text](image-34.png)
+
+### 6. Add Another Inbound rules
+
+- Search ECS, scroll down to find security groups on left panel
+- Click security group name
+- Click Add security group rule
+
+![alt text](image-35.png)
+
 -
