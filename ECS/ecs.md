@@ -173,3 +173,30 @@
 - Select `Authorization Object` & Click OK
 
 ![alt text](image-36.png)
+
+### 7. Create Snapshot ECS
+
+- Search ECS, and click elastic computing
+- Select ECS name > Select disks on left panel > Click create snapshot
+
+![alt text](image-37.png)
+
+- Type name and click create
+
+![alt text](image-38.png)
+
+### 8. Create AMI from Snapshot
+
+- Search ECS, and click elastic computing
+- Select ECS name > Select snapshot on left panel > Click create custom image
+
+![alt text](image-39.png)
+
+- Type custom image name & custom image description > Select resource group
+- Click create
+
+![alt text](image-40.png)
+
+- When you create new instance > On image, select custom image > select AMI
+
+![alt text](image-41.png)
