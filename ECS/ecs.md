@@ -166,4 +166,10 @@
 
 ![alt text](image-35.png)
 
--
+- Select `Rule Direction`
+- Select `Action`
+- Select `Protocol Type`
+- Select `Port Range & Priority`
+- Select `Authorization Object` & Click OK
+
+![alt text](image-36.png)
